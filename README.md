@@ -6,7 +6,7 @@ Projeto criado para ajudar RH de uma empresa ficticia, a partir da necessidade d
 Não há consumo de API.
 
 # Instalação
-Download do chromedriver https://chromedriver.chromium.org/getting-started (mesma versão do navegador).
+Download do chromedriver https://chromedriver.chromium.org/getting-started (mesma versão do navegador e precisa estar na pasta do projeto).
 
 pip install selenium 
 
